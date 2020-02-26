@@ -1,0 +1,25 @@
+{
+  "name": "smashingcoin",
+  "version": "1.0.0",
+  "description": "First blokchain project based on SmashingMagazine tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kolumbryna22/SmashingCoin.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Dominik Wilusz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kolumbryna22/SmashingCoin/issues"
+  },
+  "homepage": "https://github.com/Kolumbryna22/SmashingCoin#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
