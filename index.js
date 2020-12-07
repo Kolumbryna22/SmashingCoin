@@ -23,6 +23,16 @@ smashingCoin.addNewBlock({
   }
 });
 
+smashingCoin.addNewBlock({
+  index: 2,
+  timestamp: '01/07/2020',
+  data: {
+    sender: 'Dominik Wilusz',
+    recipient: 'Dako',
+    quantity: 150
+  }
+});
+
 const workingTime = new Date();
 const delta = workingTime.getTime() - currentTime.getTime();
 

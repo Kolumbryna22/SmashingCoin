@@ -1,5 +1,4 @@
 {
-  "editor.fontFamily": "Cascadia code",
   "editor.fontLigatures": true,
 	"editor.tabSize": 2,
 	"gitlens.advanced.messages": {
